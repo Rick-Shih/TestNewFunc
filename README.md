@@ -1,0 +1,2 @@
+# TestNewFunc
+Laravel Project
